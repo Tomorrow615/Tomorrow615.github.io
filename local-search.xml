@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2024/07/29/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2024/07/29/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="关于博客"><a href="#关于博客" class="headerlink" title="关于博客"></a>关于博客</h1><h2 id="1-一些命令"><a href="#1-一些命令" class="headerlink" title="1.一些命令"></a>1.一些命令</h2><ul><li><p>创建</p>  <figure class="highlight livecodeserver"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs livecodeserver">hexo <span class="hljs-built_in">new</span> <span class="hljs-string">&quot;name&quot;</span>  <br>hexo <span class="hljs-built_in">new</span> <span class="hljs-built_in">post</span> <span class="hljs-string">&quot;post name&quot;</span><br>hexo <span class="hljs-built_in">new</span> page <span class="hljs-string">&quot;page name&quot;</span><br>hexo <span class="hljs-built_in">new</span> draft <span class="hljs-string">&quot;draft name&quot;</span><br>hexo publish <span class="hljs-string">&quot;post name&quot;</span><br></code></pre></td></tr></table></figure></li><li><p>清理缓存</p>  <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo cl<br></code></pre></td></tr></table></figure></li><li><p>生成静态文件</p>  <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo g<br></code></pre></td></tr></table></figure></li><li><p>本地调试</p>  <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo s<br></code></pre></td></tr></table></figure></li><li><p>部署博客</p>  <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo d<br></code></pre></td></tr></table></figure></li><li><p>一键部署</p>  <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo cl &amp;&amp; hexo g &amp;&amp; hexo d<br></code></pre></td></tr></table></figure></li></ul><h2 id="2-主题"><a href="#2-主题" class="headerlink" title="2.主题"></a>2.主题</h2><p><a href="https://hexo.fluid-dev.com/docs/start/"> Hexo Fluid 用户手册 </a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>tools</title>
     <link href="/2024/07/28/tools/"/>
     <url>/2024/07/28/tools/</url>
